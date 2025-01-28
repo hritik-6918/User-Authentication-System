@@ -1,6 +1,6 @@
-# Full-Stack React Application
+# User Authentication System
 
-A modern web application built with React, TypeScript, and Supabase, featuring user authentication, profile management, and real-time data updates.
+An user authentication system built with React, TypeScript, and Supabase, featuring user authentication, profile management, and real-time data updates.
 
 ## Features
 
@@ -38,18 +38,6 @@ npm run dev
 ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
-
-## Project Structure
-
-```
-src/
-  ├── components/     # Reusable UI components
-  ├── hooks/         # Custom React hooks
-  ├── lib/           # Utility functions and configurations
-  ├── pages/         # Page components
-  ├── integrations/  # Third-party integrations
-  └── App.tsx        # Root component
-```
 
 ## Environment Variables
 
